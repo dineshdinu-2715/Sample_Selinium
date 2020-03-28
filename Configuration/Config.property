@@ -1,0 +1,4 @@
+chromeDriver=/Sample_Selinium/src/main/resources/binaries/chromedriver.exe
+firefoxDriver=
+Url=https://www.facebook.com/
+Excelpath=
